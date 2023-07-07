@@ -1,0 +1,29 @@
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background: #eee;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.container{
+width: 96%;
+margin: 20px auto;
+}
+.book{
+width: 48%;
+float: left;
+background: #fff;
+margin: 5px; padding: 10px;
+}
+.icon{
+width: 15%;
+float: left;
+line-height: 120px;
+ }
+button{
+background: #1abc9c;
+border-radius: 7px;
+padding: 6px
+}
